@@ -13,3 +13,9 @@ This project is a relational database design for Starbucks, created as part of t
 - MySQL Workbench
 
 The database models outlets, customers, staff, menu items, orders, and payments.
+
+## Group Members
+
+- Riddhi Chawla  
+- Pearl Jauhari  
+- Hardik Khuntia
