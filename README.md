@@ -2,6 +2,12 @@
 
 This project is a relational database design for Starbucks, created as part of the DBMS coursework.
 
+## Group Members
+
+- Riddhi Chawla  
+- Pearl Jauhari  
+- Hardik Khuntia
+
 ## Project Contents
 - ER Diagram
 - SQL scripts for table creation
@@ -14,8 +20,3 @@ This project is a relational database design for Starbucks, created as part of t
 
 The database models outlets, customers, staff, menu items, orders, and payments.
 
-## Group Members
-
-- Riddhi Chawla  
-- Pearl Jauhari  
-- Hardik Khuntia
